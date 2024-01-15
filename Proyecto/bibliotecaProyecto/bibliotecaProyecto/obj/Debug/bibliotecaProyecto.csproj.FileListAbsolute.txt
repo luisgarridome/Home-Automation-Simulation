@@ -1,0 +1,11 @@
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\bibliotecaProyecto.dll
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\bibliotecaProyecto.pdb
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\Newtonsoft.Json.dll
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\Telegram.Bot.dll
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\Newtonsoft.Json.xml
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\bin\Debug\Telegram.Bot.xml
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\obj\Debug\bibliotecaProyecto.csprojAssemblyReference.cache
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\obj\Debug\bibliotecaProyecto.csproj.CoreCompileInputs.cache
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\obj\Debug\bibliotecaProyecto.csproj.CopyComplete
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\obj\Debug\bibliotecaProyecto.dll
+D:\Users\lagar\Desktop\bibliotecaProyecto\bibliotecaProyecto\obj\Debug\bibliotecaProyecto.pdb
